@@ -21,7 +21,6 @@ public class RedondeoBinario2 {
 }
 ```
 
-```md
 ### Resultado
 0.09999999999999998
-```
+
