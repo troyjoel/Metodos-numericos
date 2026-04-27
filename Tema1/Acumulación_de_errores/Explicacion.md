@@ -1,4 +1,4 @@
-# Tema 4: Errores
+# Tema 1: Errores
 ## Subtema: Acumulación de errores
 
 ---
