@@ -1,4 +1,4 @@
-# Tema 3: Errores
+# Tema 1: Errores
 ## Subtema: Comparación incorrecta de decimales
 
 ---
