@@ -11,14 +11,10 @@ El error de redondeo binario ocurre porque las computadoras representan los núm
 ## Código 1
 
 ### Código
-```java
-public class RedondeoBinario2 {
-    public static void main(String[] args) {
-        double a = 0.7;
-        double b = 0.6;
-        System.out.println(a - b);
-    }
-}
+```python
+a = 0.7
+b = 0.6
+print(a - b)
 ```
 
 ### Resultado
