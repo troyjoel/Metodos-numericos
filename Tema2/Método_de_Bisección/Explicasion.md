@@ -2,8 +2,10 @@
 ## Subtema: Método de Bisección
 ---
 ## Descripción
+
 El método de bisección es un método numérico que permite encontrar una raíz de una función en un intervalo donde existe un cambio de signo.
 Consiste en dividir repetidamente el intervalo en dos partes y seleccionar el subintervalo donde la función cambia de signo, garantizando así la convergencia hacia la raíz.
+
 ---
 ## Código 1
 ### Función
@@ -23,7 +25,9 @@ else:
 print(c)
 ```
 ### Resultado
+
 1.521484375
+
 ---
 ## Código 2
 ### Función
@@ -64,6 +68,7 @@ print(c)
 ```
 ### Resultado
 2.7060546875
+
 ---
 ## Código 4
 ### Función
@@ -84,6 +89,7 @@ print(c)
 ```
 ### Resultado
 1.4140625
+
 ---
 ## Código 5
 ### Función
@@ -104,4 +110,5 @@ print(c)
 ```
 ### Resultado
 2.0947265625
+
 ---
