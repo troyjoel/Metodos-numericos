@@ -1,0 +1,18 @@
+def f(x):
+    return x**2 - 4  # cambia función
+
+def df(x):
+    return 2*x       # cambia derivada
+
+x = float(input("Valor inicial: "))
+tol = float(input("Tolerancia: "))
+
+while True:
+    x_new = x - f(x)/df(x)
+
+    if abs(x_new - x) < tol:
+        break
+
+    x = x_new
+
+print("Raíz aproximada:", x_new)
