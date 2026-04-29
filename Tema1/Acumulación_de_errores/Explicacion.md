@@ -12,8 +12,9 @@ Errores pequeños se van acumulando al repetir muchas operaciones, generando res
 
 ### Código
 ```python
-s = 0 for i in range(10000):
-s += 0.1
+s = 0
+for i in range(10000):
+  s += 0.1
 print(s)
 ```
 
@@ -26,8 +27,9 @@ print(s)
 
 ### Código
 ```python
-s = 0 for i in range(5000):
-s += 0.2
+s = 0
+for i in range(5000):
+  s += 0.2
 print(s)
 ```
 
@@ -40,8 +42,9 @@ print(s)
 
 ### Código
 ```python
-s = 0 for i in range(2000):
-s += 0.3
+s = 0
+for i in range(2000):
+  s += 0.3
 print(s)
 ```
 
@@ -54,8 +57,9 @@ print(s)
 
 ### Código
 ```python
-s = 0 for i in range(3000):
-s += 0.15
+s = 0
+for i in range(3000):
+  s += 0.15
 print(s)
 ```
 
@@ -68,8 +72,9 @@ print(s)
 
 ### Código
 ```python
-s = 0 for i in range(1000):
-s += 0.05
+s = 0
+for i in range(1000):
+  s += 0.05
 print(s)
 ```
 
